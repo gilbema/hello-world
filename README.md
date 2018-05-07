@@ -1,2 +1,3 @@
 # hello-world
 first new repository following the tutorial
+this is a bit about me...
